@@ -1,0 +1,20 @@
+# Fast.ai Deep Learning Implementation
+
+This repository documents my journey through Part 1 of the Fast.ai course, focusing on implementing core algorithms from scratch to understand the math behind the "Black Box."
+
+## 📂 Project 1: MNIST Digit Classifier (Computer Vision)
+**File:** `01_mnist_tensors_from_scratch.ipynb`
+
+A binary classifier (3s vs 7s) built using **raw PyTorch tensors**.
+* **Goal:** Understand how neural networks learn without using `nn.Linear` or `optim`.
+* **Tech:** PyTorch (Broadcasting, Matrix Multiplication), SGD implementation.
+
+## 📂 Project 2: Titanic Survival Predictor (Tabular Data)
+**File:** `02_titanic_tabular_from_scratch.ipynb`
+
+A predictive model built on the famous Titanic dataset.
+* **Goal:** Master data preprocessing and tabular model architecture.
+* **Tech:** Pandas for data cleaning, categorical embeddings, and custom model logic.
+
+---
+*Built as part of the Fast.ai Practical Deep Learning for Coders (Part 1).*
