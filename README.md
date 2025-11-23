@@ -21,7 +21,7 @@ A predictive model built on the famous Titanic dataset.
 ---
 
 ## 📂 Project 3: ResNet Architecture from Scratch (Computer Vision)
-**File:** `03_resnet_from_scratch.ipynb` (or similar file name)
+**File:** `03_resnet_from_scratch.ipynb` 
 
 An end-to-end reconstruction of the **ResNet-50** architecture using PyTorch and fastai primitives. This project focused on shifting from a model 'user' to a model 'builder' by implementing key architectural decisions:
 * **Residual Blocks:** Implementing **identity skip connections** (the **x + F(x)** mechanism) to ensure uninterrupted gradient flow through deep networks.
