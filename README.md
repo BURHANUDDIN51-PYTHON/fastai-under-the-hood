@@ -30,4 +30,3 @@ An end-to-end reconstruction of the **ResNet-50** architecture using PyTorch and
 * **Tech:** PyTorch `nn.Module` and `nn.Conv2d` primitives, custom weight initialization, and tensor shape tracking.
 
 ---
-*Built as part of the Fast.ai Practical Deep Learning for Coders (Part 1).*
